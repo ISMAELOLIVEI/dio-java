@@ -2,6 +2,6 @@
 public class MinhaClasse {
 
 	public static void main(String[] args) {
-		System.out.println(" OLÁ MESTRE");
+		System.out.println(" OLA MEU  MESTRE");
 	}
 }
